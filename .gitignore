@@ -1,0 +1,10 @@
+# Node build artifacts
+esp8266
+node_modules
+npm-debug.log
+
+# Local development
+*.env
+*.dev
+
+autonebriosapp-firebase-adminsdk-tqex8-c09beca051.json
